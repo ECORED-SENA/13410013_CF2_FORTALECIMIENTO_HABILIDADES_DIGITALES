@@ -1,0 +1,148 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "tic",
+    "title": "1. Impacto de las TIC",
+    "breadcrumb": ["Inicio","Tema 1"],
+    "path": "pages/1-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tic",
+        "title": "1.1 Impacto académico",
+        "anchor": "11"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tic",
+        "title": "1.2 Impacto emprendimiento",
+        "anchor": "12"
+      }
+    ]
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "ideacion",
+    "title": "2. Proceso de ideación",
+    "breadcrumb": ["Inicio","tema 2"],
+    "path": "pages/2-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "ideacion",
+        "title": "2.1 Pensamiento creativo",
+        "anchor": "21"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "ideacion",
+        "title": "2.2 Potenciar emprendimiento",
+        "anchor": "22"
+      }      
+    ]
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "digital",
+    "title": "3. Contenido digital",
+    "breadcrumb": ["Inicio","tema 3"],
+    "path": "pages/3-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "digital",
+        "title": "3.1 Concepto y características",
+        "anchor": "31"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "digital",
+        "title": "3.2 Tipos de contenido digital",
+        "anchor": "32"
+      }
+    ]
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "contenido_digital",
+    "title": "4. Planeación y herramientas de contenido digital",
+    "breadcrumb": ["Inicio","tema 3"],
+    "path": "pages/4-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "contenido_digital",
+        "title": "4.1 Planeación y herramientas para imagen",
+        "anchor": "41"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "contenido_digital",
+        "title": "4.2 Planeación y herramientas para audio",
+        "anchor": "42"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "contenido_digital",
+        "title": "4.3 Planeación y herramientas para presentaciones",
+        "anchor": "43"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "contenido_digital",
+        "title": "4.4 Planeación y herramientas para video",
+        "anchor": "44"
+      }
+    ]
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "diseno_contenido_digital",
+    "title": "5. Diseño del contenido digital",
+    "breadcrumb": ["Inicio","tema 3"],
+    "path": "pages/5-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "diseno_contenido_digital",
+        "title": "5.1 Diseño y concepto básico",
+        "anchor": "51"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "diseno_contenido_digital",
+        "title": "5.2 Diseño de imagen",
+        "anchor": "52"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "diseno_contenido_digital",
+        "title": "5.3 Diseño de audio",
+        "anchor": "53"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "diseno_contenido_digital",
+        "title": "5.4 Diseño de presentación",
+        "anchor": "54"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "diseno_contenido_digital",
+        "title": "5.5 Diseño de video",
+        "anchor": "55"
+      }
+    ]
+  }
+]

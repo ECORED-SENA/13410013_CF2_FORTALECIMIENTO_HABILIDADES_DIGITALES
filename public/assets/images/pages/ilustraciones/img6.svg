@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="759" height="266" viewBox="0 0 759 266">
+  <g id="Grupo_18041" data-name="Grupo 18041" transform="translate(-422 -2819)">
+    <g id="Grupo_16349" data-name="Grupo 16349" transform="translate(0 255)">
+      <g id="Rectángulo_3857" data-name="Rectángulo 3857" transform="translate(422 2623)" fill="#f7e7ce" stroke="#707070" stroke-width="1">
+        <rect width="759" height="61" stroke="none"/>
+        <rect x="0.5" y="0.5" width="758" height="60" fill="none"/>
+      </g>
+      <g id="Rectángulo_3853" data-name="Rectángulo 3853" transform="translate(422 2682)" fill="#f0f0f0" stroke="#707070" stroke-width="1">
+        <rect width="759" height="50" stroke="none"/>
+        <rect x="0.5" y="0.5" width="758" height="49" fill="none"/>
+      </g>
+      <text id="IDEA_1" data-name="IDEA 1" transform="translate(453 2717)" fill="#00223d" font-size="22" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="0">IDEA 1</tspan></text>
+      <g id="Rectángulo_3854" data-name="Rectángulo 3854" transform="translate(422 2731)" fill="#e0e0e0" stroke="#707070" stroke-width="1">
+        <rect width="759" height="50" stroke="none"/>
+        <rect x="0.5" y="0.5" width="758" height="49" fill="none"/>
+      </g>
+      <text id="IDEA_2" data-name="IDEA 2" transform="translate(453 2764)" fill="#00223d" font-size="22" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="0">IDEA 2</tspan></text>
+      <g id="Rectángulo_3855" data-name="Rectángulo 3855" transform="translate(422 2780)" fill="#f0f0f0" stroke="#707070" stroke-width="1">
+        <rect width="759" height="50" stroke="none"/>
+        <rect x="0.5" y="0.5" width="758" height="49" fill="none"/>
+      </g>
+      <text id="IDEA_3" data-name="IDEA 3" transform="translate(453 2812)" fill="#00223d" font-size="22" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="0">IDEA 3</tspan></text>
+      <g id="Rectángulo_3856" data-name="Rectángulo 3856" transform="translate(422 2564)" fill="#fdac29" stroke="#707070" stroke-width="1">
+        <rect width="759" height="61" stroke="none"/>
+        <rect x="0.5" y="0.5" width="758" height="60" fill="none"/>
+      </g>
+      <text id="VIABILIDAD_DE_LAS_IDEAS" data-name="VIABILIDAD DE LAS IDEAS" transform="translate(661 2602)" fill="#00223d" font-size="22" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="0">VIABILIDAD DE LAS IDEAS</tspan></text>
+      <path id="Trazado_32734" data-name="Trazado 32734" d="M1994.855,900v204.906" transform="translate(-1435 1725)" fill="none" stroke="#707070" stroke-width="1"/>
+      <text id="BENEFICIO" transform="translate(591 2662)" fill="#00223d" font-size="22" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="0">BENEFICIO</tspan></text>
+      <text id="ALCANZABLE" transform="translate(789 2662)" fill="#00223d" font-size="22" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="0">ALCANZABLE</tspan></text>
+      <text id="TOTAL" transform="translate(1053 2662)" fill="#00223d" font-size="22" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="0">TOTAL</tspan></text>
+      <path id="Trazado_32735" data-name="Trazado 32735" d="M1994.855,900v204.906" transform="translate(-1249 1725)" fill="none" stroke="#707070" stroke-width="1"/>
+      <path id="Trazado_32736" data-name="Trazado 32736" d="M1994.855,900v204.906" transform="translate(-1019 1725)" fill="none" stroke="#707070" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
